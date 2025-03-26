@@ -13,9 +13,9 @@
 
 - 📫 How to reach me **samitr247@gmail.com**
 
-- 😊 Speciality **I am a fast Learner**
+- 😊 Speciality **I am a pretty fast learner**
 
-- ⚡ Fun fact **I can do Stand-up Comedy**
+- ⚡ Fun fact **I can do stand-up comedy**
 
 
 <h3 align="left">Connect with me:</h3>
