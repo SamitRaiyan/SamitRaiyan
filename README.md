@@ -1,5 +1,6 @@
+![logo](https://github.com/SamitRaiyan/SamitRaiyan/blob/main/Let's%20Enjoy%20the%20CHALLENGE.gif)
 <h1 align="center">Greetings 👋, I'm S M Samit Raiyan</h1>
-<h3 align="center">A passionate Software developer and Engineer from Bangladesh</h3>
+<h3 align="center">A Passionate Software Developer and Engineer from Bangladesh</h3>
 
 <img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" alt="coding" width="400" align="right">
 
